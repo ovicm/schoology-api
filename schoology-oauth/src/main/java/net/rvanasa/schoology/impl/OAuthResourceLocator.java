@@ -6,7 +6,7 @@ public abstract class OAuthResourceLocator
 	
 	public String getRequestUrlBase()
 	{
-		return "https://api.schoology.com/v1/";
+		return "http://api.schoology.com/v1/";
 	}
 	
 	public String getRequestUrl(String resource)

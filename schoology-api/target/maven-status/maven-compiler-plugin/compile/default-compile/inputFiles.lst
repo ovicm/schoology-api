@@ -1,8 +1,9 @@
-E:\Documents\Programming\Git\anasa-schoology\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyResponseBody.java
-E:\Documents\Programming\Git\anasa-schoology\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyNodeParser.java
-E:\Documents\Programming\Git\anasa-schoology\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyNode.java
-E:\Documents\Programming\Git\anasa-schoology\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyRealm.java
-E:\Documents\Programming\Git\anasa-schoology\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyResponseStatus.java
-E:\Documents\Programming\Git\anasa-schoology\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyContentType.java
-E:\Documents\Programming\Git\anasa-schoology\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyAccess.java
-E:\Documents\Programming\Git\anasa-schoology\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyResponse.java
+C:\Projects\wevideo\projects\schoology-api\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyResponseStatus.java
+C:\Projects\wevideo\projects\schoology-api\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyNodeParser.java
+C:\Projects\wevideo\projects\schoology-api\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyNode.java
+C:\Projects\wevideo\projects\schoology-api\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyResponse.java
+C:\Projects\wevideo\projects\schoology-api\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyResponseBody.java
+C:\Projects\wevideo\projects\schoology-api\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyContentType.java
+C:\Projects\wevideo\projects\schoology-api\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyRealm.java
+C:\Projects\wevideo\projects\schoology-api\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyRequestHandler.java
+C:\Projects\wevideo\projects\schoology-api\schoology-api\src\main\java\net\rvanasa\schoology\SchoologyResponseHandler.java
